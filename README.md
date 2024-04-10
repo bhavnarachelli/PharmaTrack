@@ -107,7 +107,7 @@ Provided below is a screenshot displaying the operational website, offering a re
 Enclosed is a screenshot of the resource visualizer, providing a comprehensive overview of the utilized resources for reference and documentation purposes.
 
 
-![Screenshot (92)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/271cff95-2c92-4f3d-8e70-6be1040428d1)
+![Screenshot (115)](https://github.com/bhavnarachelli/PharmaTrack/assets/166373469/1df70b7c-007c-44ee-9cff-ecb22a0db9c9)
 
 ### Final Project Statement :
 
