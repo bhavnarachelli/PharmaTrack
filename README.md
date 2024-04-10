@@ -1,10 +1,10 @@
 
-# Pharmacy Management System:
-The Pharmacy Management System is a sophisticated software solution designed to streamline and automate various aspects of medicine supply management within a pharmacy setting. It encompasses a range of functionalities aimed at enhancing efficiency, accuracy, and overall operational effectiveness in handling medicine inventory, orders, suppliers, and other related tasks. By leveraging technologies such as Python Flask and MySQL, this system offers a user-friendly interface for managing the complexities of offline medicine supply, facilitating seamless coordination between different stakeholders and ensuring timely availability of medicines to patients. With features such as inventory management, order tracking, supplier management, and robust reporting capabilities, the Pharmacy Management System revolutionizes traditional pharmacy operations, paving the way for enhanced productivity, cost-effectiveness, and customer satisfaction.
+# Pharama Track:
+The Pharama Track is a sophisticated software solution designed to streamline and automate various aspects of medicine supply management within a pharmacy setting. It encompasses a range of functionalities aimed at enhancing efficiency, accuracy, and overall operational effectiveness in handling medicine inventory, orders, suppliers, and other related tasks. By leveraging technologies such as Python Flask and MySQL, this system offers a user-friendly interface for managing the complexities of offline medicine supply, facilitating seamless coordination between different stakeholders and ensuring timely availability of medicines to patients. With features such as inventory management, order tracking, supplier management, and robust reporting capabilities, the Pharama Track revolutionizes traditional pharmacy operations, paving the way for enhanced productivity, cost-effectiveness, and customer satisfaction.
 
 ## Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
-## Project Title: Pharmacy Management System
+## Project Title: Pharama Track
 
 ## Project Details :
 
@@ -34,11 +34,11 @@ Azure AI Bot Service(Language Service) : Azure AI Bot Service facilitates intera
 
 ## Problem Statement:
 
-In the pharmaceutical industry, efficient management of medicine supply is crucial for ensuring availability and accessibility of medicines to patients. However, traditional manual methods of managing inventory often lead to inefficiencies, errors, and delays in supply chain processes. Therefore, there is a need for a comprehensive Pharmacy Management System that can automate and streamline the medicine supply management process, ensuring accuracy, reliability, and timely delivery of medicines to patients.
+In the pharmaceutical industry, efficient management of medicine supply is crucial for ensuring availability and accessibility of medicines to patients. However, traditional manual methods of managing inventory often lead to inefficiencies, errors, and delays in supply chain processes. Therefore, there is a need for a comprehensive Pharama Track that can automate and streamline the medicine supply management process, ensuring accuracy, reliability, and timely delivery of medicines to patients.
 
 ## Project Description:
 
-The Pharmacy Management System is designed to address the challenges faced in offline medicine supply management by providing a robust database management system. Implemented using Python Flask and MySQL, this system offers a user-friendly interface for managing tasks related to medicine supply. It leverages the functionalities of AMPPS for efficient deployment and customization.
+The Pharama Track is designed to address the challenges faced in offline medicine supply management by providing a robust database management system. Implemented using Python Flask and MySQL, this system offers a user-friendly interface for managing tasks related to medicine supply. It leverages the functionalities of AMPPS for efficient deployment and customization.
 
 ## Key Features:
 
@@ -111,4 +111,4 @@ Enclosed is a screenshot of the resource visualizer, providing a comprehensive o
 
 ### Final Project Statement :
 
-The Pharmacy Management System is an advanced software solution designed to streamline medicine supply management in pharmacies. With features like inventory management, order tracking, and supplier management, it enhances efficiency and ensures timely availability of medications. Powered by technologies like Python Flask and MySQL, it revolutionizes traditional pharmacy operations, boosting productivity and customer satisfaction.
+The Pharama Track is an advanced software solution designed to streamline medicine supply management in pharmacies. With features like inventory management, order tracking, and supplier management, it enhances efficiency and ensures timely availability of medications. Powered by technologies like Python Flask and MySQL, it revolutionizes traditional pharmacy operations, boosting productivity and customer satisfaction.
