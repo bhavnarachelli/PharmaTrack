@@ -75,18 +75,18 @@ Facilitates interactive communication with AI-powered bots, enabling natural lan
 1) Azure App Service:
 Description : Azure App Service provides a scalable and reliable hosting environment for Phramacy management system, ensuring seamless deployment and continuous availability to optimize the user experience
 
-![Screenshot (80)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/c505e158-1443-46dd-a17a-78a9575fa0ff)
+![Screenshot (112)](https://github.com/bhavnarachelli/PharmaTrack/assets/166373469/cf4752ac-46a1-41f8-b0dd-686154169d19)
 
 ### 2) Azure Database For MySQL :
 Description :The project leverages Azure MySQL as its database solution to efficiently manage and store user interaction history. Azure MySQL provides a reliable relational database service that ensures that data is readily available, reliable, and quickly retrievable, leading to smooth user experiences.
 
-![Screenshot (81)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/8b41dfb8-d75c-4e94-a507-f8ccaffa3e69)
+![Screenshot (113)](https://github.com/bhavnarachelli/PharmaTrack/assets/166373469/cbf1eb04-27cd-4a9d-bf7a-61ca9c4b9ffb)
 
 ## Azure AI Service :
 ### Azure Bot Service(Language Service):
 Description :Azure Bot Service empowers Pharmacy-Supply-Management-System with interactive and responsive bot experiences, enhancing user engagement and satisfaction through seamless deployment and continuous availability.
 
-![Screenshot (82)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/149df083-695e-453d-aed0-f19c5a3bbbe8)
+![Screenshot (114)](https://github.com/bhavnarachelli/PharmaTrack/assets/166373469/1f7e9a51-0ee7-46d5-877d-d3e51790908e)
 
 ## Working Live Project Display :
 
