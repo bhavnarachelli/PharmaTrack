@@ -12,7 +12,7 @@ The Pharama Track is a sophisticated software solution designed to streamline an
 
 ## Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
 
-## Github Repository URL : https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/tree/master 
+## Github Repository URL :https://github.com/bhavnarachelli/PharmaTrack
 
 ### Industry : Health
 
