@@ -38,7 +38,8 @@ In the pharmaceutical industry, efficient management of medicine supply is cruci
 
 ## Project Description:
 
-The Pharama Track is designed to address the challenges faced in offline medicine supply management by providing a robust database management system. Implemented using Python Flask and MySQL, this system offers a user-friendly interface for managing tasks related to medicine supply. It leverages the functionalities of AMPPS for efficient deployment and customization.
+The Pharama Track is designed to address the challenges faced in offline medicine supply management by providing a robust database management system. Implemented using Python Flask and MySQL, this system offers a user-friendly interface for managing tasks related to medicine supply. It leverages the functionalities of AMPPS for efficient deployment and customization.Simplify navigation and task execution.
+Provide clear visualizations of data and insights.Offer customizable preferences and settings to meet individual user needs.Pharma Track represents a significant advancement in pharmacy management systems, offering a comprehensive solution to streamline and automate various aspects of medicine supply management. By leveraging modern technologies and incorporating user-friendly design principles, Pharma Track empowers pharmacies to optimize their operations, improve customer satisfaction, and stay competitive in today's dynamic healthcare landscape.
 
 ## Key Features:
 
