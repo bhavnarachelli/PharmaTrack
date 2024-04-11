@@ -10,7 +10,7 @@ The Pharama Track is a sophisticated software solution designed to streamline an
 
 ## Project Demo URL : https://supplym.azurewebsites.net/
 
-## Demo Video URL : https://drive.google.com/file/d/16jdRfRDAUM_QZQDoEN3_Jb-Sbf5s2dQX/view?usp=sharing 
+## Demo Video URL : https://drive.google.com/file/d/1BK2PH0nooTWMMphIqqumbrIligXJq_nb/view?usp=drive_link
 
 ## Github Repository URL :https://github.com/bhavnarachelli/PharmaTrack
 
