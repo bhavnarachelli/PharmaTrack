@@ -94,7 +94,7 @@ Description :Azure Bot Service empowers Pharmacy-Supply-Management-System with i
 Provided below is a screenshot displaying the operational website, offering a real-time view of the project in action for your reference and review.
 
 
-![Screenshot (84)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/6e297f4d-4e98-4c99-8d8f-25e407721e93)
+![Screenshot (116)](https://github.com/bhavnarachelli/PharmaTrack/assets/166373469/73b6af92-4c02-43a8-b8c5-55eecef6a229)
 ![Screenshot (85)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cfebb744-2c70-4ea8-acac-f76aac4c6fce)
 ![Screenshot (86)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/cae8ff8d-0c4f-4c3a-bb1f-fe5ab6c0464a)
 ![Screenshot (87)](https://github.com/rachelliBhavana/Pharmacy-Supply-Management-System/assets/86688714/00a14d71-4853-4a60-823f-23e7f16f8242)
