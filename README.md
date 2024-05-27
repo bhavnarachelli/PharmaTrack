@@ -8,7 +8,7 @@ The Pharama Track is a sophisticated software solution designed to streamline an
 
 ## Project Details :
 
-## Project Demo URL : https://supplym.azurewebsites.net/
+## Project Demo URL : https://phrama.azurewebsites.net/
 
 ## Demo Video URL : https://drive.google.com/file/d/1BK2PH0nooTWMMphIqqumbrIligXJq_nb/view?usp=drive_link
 
